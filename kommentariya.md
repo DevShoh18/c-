@@ -18,7 +18,7 @@ cout << "Hello World!"; // Bu qator oxiridagi izoh
 Ko'p qatorli izohlar `/*` bilan boshlanib, `*/` bilan tugaydi. `/*` va `*/` orasidagi barcha matnlar kompilyator tomonidan e'tiborsiz qoldiriladi.
 ```cpp
 /* Quyidagi kod ekranga Hello World!
-so'zini chiqaradi va bu juda qulay */
+so'zini chiqaradi. */
 cout << "Hello World!";
 ```
 ---
