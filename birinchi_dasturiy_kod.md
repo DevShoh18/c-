@@ -62,31 +62,15 @@ int main() {
     cout << "Hello World!";
     return 0;
 }
+```
 ### 3-Qadam: Faylni Saqlash
 1. Menyudan **File > Save File as...** bo'limini tanlang (yoki `Ctrl + S`).
 2. Fayl nomini **`myfirstprogram.cpp`** deb nomlang va kompyuteringizdagi qulay papkaga saqlang.
    > **Eslatib o'tamiz:** Fayl kengaytmasi albatta **`.cpp`** bo'lishi kerak!
-
 ---
-
 ### 4-Qadam: Kompilatsiya va Ishga Tushirish (Build & Run)
 1. Yuqori uskunalar panelidagi **Yashil O'q va G'ildirakcha** piktogrammasini (**Build and run**) bosing (yoki klaviaturadan **F9** tugmasini bosing).
 2. Dastur kompilatsiya bo'ladi va qora konsol oynasi (Terminal) paydo bo'lib, ekranga quyidagi yozuv chiqadi:
-
-```text
-Hello World!
-# C++ Sintaksisi
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-    cout << "Hello World!";
-    return 0;
-}
-
-```
 
 ## Qisqa Tahlil
 
