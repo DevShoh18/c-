@@ -62,3 +62,43 @@ int main() {
     cout << "Hello World!";
     return 0;
 }
+### 3-Qadam: Faylni Saqlash
+1. Menyudan **File > Save File as...** bo'limini tanlang (yoki `Ctrl + S`).
+2. Fayl nomini **`myfirstprogram.cpp`** deb nomlang va kompyuteringizdagi qulay papkaga saqlang.
+   > **Eslatib o'tamiz:** Fayl kengaytmasi albatta **`.cpp`** bo'lishi kerak!
+
+---
+
+### 4-Qadam: Kompilatsiya va Ishga Tushirish (Build & Run)
+1. Yuqori uskunalar panelidagi **Yashil O'q va G'ildirakcha** piktogrammasini (**Build and run**) bosing (yoki klaviaturadan **F9** tugmasini bosing).
+2. Dastur kompilatsiya bo'ladi va qora konsol oynasi (Terminal) paydo bo'lib, ekranga quyidagi yozuv chiqadi:
+
+```text
+Hello World!
+# C++ Sintaksisi
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello World!";
+    return 0;
+}
+
+```
+
+## Qisqa Tahlil
+
+* **`#include <iostream>`** — Kiritish-chiqarish (`cout`, `cin`) kutubxonasi.
+* **`using namespace std;`** — Standart nomlar fazosidan (`std::cout` o'rniga `cout`) foydalanish.
+* **`int main()`** — Dasturning kirish nuqtasi (asosiy funksiya).
+* **`cout << "..."`** — Matnni ekranga chiqarish obyekti va operatori (`<<`).
+* **`return 0;`** — Funksiyani yakunlaydi, dastur xatosiz ishlaganini bildiradi.
+* **`{}`** — Kod blokining boshlanishi va yakuni.
+
+## Muhim Qoidalar
+
+* **`;` (Nuqta-vergul):** Har bir buyruq oxirida qo'yilishi **shart**.
+* **Case-sensitive:** Katta-kichik harflar farq qiladi (`cout` $\neq$ `Cout`).
+* **Bo'sh joylar (White space):** Kompilyator bo'sh qator va joylarni e'tiborsiz qoldiradi.
