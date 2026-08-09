@@ -71,6 +71,7 @@ int main() {
 ### 4-Qadam: Kompilatsiya va Ishga Tushirish (Build & Run)
 1. Yuqori uskunalar panelidagi **Yashil O'q va G'ildirakcha** piktogrammasini (**Build and run**) bosing (yoki klaviaturadan **F9** tugmasini bosing).
 2. Dastur kompilatsiya bo'ladi va qora konsol oynasi (Terminal) paydo bo'lib, ekranga quyidagi yozuv chiqadi:
+   Hello World!
 
 ## Qisqa Tahlil
 
