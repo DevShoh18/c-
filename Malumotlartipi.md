@@ -13,7 +13,7 @@ using namespace std;
 
 int main() {
     // 1. Matnli ma'lumotlar (string)
-    string customer_name = "Shoxboz";
+    string customer_name = "Dasturchi";
     string item_name = "Simsiz Sichqoncha";
 
     // 2. Butun sonlar (int)
@@ -64,7 +64,7 @@ int main() {
 
 ```text
 === XARID CHEKI ===
-Mijoz: Shoxboz
+Mijoz: Dasturchi
 Mahsulot: Simsiz Sichqoncha
 Mavjudligi: Omborda bor
 --------------------
