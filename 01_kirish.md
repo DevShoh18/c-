@@ -13,7 +13,7 @@ Dastlab u **"C with Classes"** (Klasslarga ega C tili) deb atalgan, chunki muall
 2. **Statik Tiplash (Statically Typed):**
    Har bir o'zgaruvchining ma'lumot turi (`int`, `double`, `char` va h.k.) kompilatsiya vaqtida aniq ko'rsatiladi va tekshiriladi. Bu koddagi ko'plab mantiqiy va xotira xatolarini hali dastur ishga tushmasidanoq ushlash imkonini beradi.
 3. **Nol-Xarajatli Abstraksiya (Zero-overhead Abstraction):**
-   C++ ning oltin qoidasi: *"Siz ishlatmagan narsangiz uchun haq tolaysiz (resurs sarflamaysiz). Ishlatgan narsangizni esa qo'lda assemblyda yozganingizdan ko'ra yaxshiroq optimizatsiya qila olmaysiz"*.
+   C++ ning oltin qoidasi: *"Siz ishlatmagan narsangiz uchun haq to'lamaysiz (resurs sarflamaysiz). Foydalanadigan narsangizni qo'lda yozishingiz mumkin bo'lgan narsa kabi samarali kodni kompilyatsiya qiladi"*.
 4. **Xotirani To'g'ridan-to'g'ri Boshqarish:**
    C++ da dasturchi kompyuterning operativ xotirasini (RAM) ko'rsatkichlar (pointers) va adreslar orqali to'g'ridan-to'g'ri boshqaradi. Unda avtomatik axlat yig'uvchi (Garbage Collector) yo'q, bu esa resurslardan maksimal unumdorlikda foydalanishni ta'minlaydi.
 5. **Ko'p Konseptlilik (Multi-paradigm):**
