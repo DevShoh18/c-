@@ -8,7 +8,7 @@ Massivlardan (`arrays`) farqli o'laroq, struktura bir vaqtning o'zida ham `int`,
 
 ## 1. Struktura Yaratish va Sintaksisi
 
-Struktura **`struct`** kalit so me'yori orqali e'lon qilinadi va uning ichidagi o'zgaruvchilar **a'zolar (members)** deb ataladi.
+Struktura **`struct`** kalit so'zi orqali e'lon qilinadi va uning ichidagi o'zgaruvchilar **a'zolar (members)** deb ataladi.
 
 ```cpp
 struct StrukturaNomi {
